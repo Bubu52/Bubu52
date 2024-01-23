@@ -17,24 +17,31 @@ This repository focuses on the data analysis of a South American supermarket, of
 I am excited to continue exploring the possibilities offered by artificial intelligence and machine learning. My future goals include:
 
 Contributing to open-source projects related to machine learning.
+
 Deepening my knowledge in specific areas.
+
 Collaborating with other technology enthusiasts to address significant challenges.
 
 🌱 Areas of Interest and Development
 
 Deep Learning: Exploring neural networks and advanced architectures.
+
 Natural Language Processing (NLP): Working on projects related to human language processing.
+
 Scraping: Exploring the vast possibilities of this technique.
 
 🛠️ Technologies and Tools
 
 Programming Languages: Python, TensorFlow, PyTorch, Scikit-Learn.
+
 Development Tools: Jupyter Notebooks, Git, Docker, Chat-GPT (Professional Mode).
+
 Relational Databases (RDBMS).
 
 📚 Education
 
 IMPELIA Professional Campus - Current Program.
+
 Relevant courses and certifications.
 
 🤝 Connect with Me!
