@@ -42,6 +42,8 @@ Relevant courses and certifications.
 I am always open to collaboration and feedback! Connect with me through:
 
 LinkedIn: www.linkedin.com/in/guillem-edo-bertran
+
 Email: edoguillem@gmail.com
 
-Thank you for visiting my GitHub profile. I hope you find my projects interesting! Feel free to explore the repositories and leave your comments. Let's grow the machine learning community together! 🤖✨
+Thank you for visiting my GitHub profile. I hope you find my projects interesting! Feel free to explore the repositories and leave your comments.
+Let's grow the machine learning community together! 🤖✨
