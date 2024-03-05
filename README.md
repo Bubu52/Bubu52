@@ -4,13 +4,17 @@ I am a passionate student of artificial intelligence and machine learning, const
 
 ## 🚀 Featured Projects
 
+- PET FRIENDS - DISTRIBUTION
+  
+The executive report enclosed herein offers an in-depth analysis of sales data from a veterinary product distribution company. It provides strategic recommendations and actionable insights aimed at enhancing profitability and operational efficiency.
+
 - MACHINE-LEARNING
   
 This repository hosts a diverse collection of datasets, scraping methods, and practical cases, all centered around the fascinating world of data scraping. With the aim of providing useful resources and applied examples, the repository is designed for students and professionals in data science and software engineering interested in web data acquisition.
 
 - AMACOR_SUPERMARKET
   
-This repository focuses on the data analysis of a South American supermarket, offering valuable insights and visualizations that can be used to enhance decision-making in the retail sector. With a specific focus on the South American region, the repository aims to provide useful information for entrepreneurs, data analysts, and retail industry professionals.
+Focusing on data analysis of a South American supermarket, this repository presents insightful visualizations and valuable insights for informed decision-making in the retail sector. Tailored to the South American market, it offers actionable information for entrepreneurs, data analysts, and retail industry experts.
 
 ## 🎯 Future Goals
 
