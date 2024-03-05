@@ -1,6 +1,6 @@
 ## Hello! 👋 I'm Guille! 
 
-I am a passionate student of artificial intelligence and machine learning, constantly seeking to expand my skills and contribute to the exciting world of technology. Welcome to my GitHub repository, where I share some of my recent projects and explorations in the field of Machine Learning!
+I am a passionate student of artificial intelligence and machine learning, constantly seeking to expand my skills and contribute to the exciting world of technology. Welcome to my GitHub repository, where I share some of my recent projects and explorations in the field of Machine Learning and Deep Learning!
 
 ## 🚀 Featured Projects
 
